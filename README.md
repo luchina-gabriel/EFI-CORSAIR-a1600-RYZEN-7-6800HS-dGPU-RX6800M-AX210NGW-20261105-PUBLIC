@@ -1,5 +1,7 @@
 # Hackintosh | Corsair A1600 Voyager, AMD Ryzen 7 6800HS, AMD Radeon RX 6800M (12 GB) and WiFi Intel AX210NGW | macOS Sequoia 15.8.2 & RPCore 1.0.2
 
+<img width="1600" height="1000" alt="Sensei Overview" src="https://github.com/user-attachments/assets/53975b50-a3ab-4514-8dd5-9817bc389cf8" />
+
 # Basic Information
 
 **macOS**: macOS Sequoia (15.8.2)
